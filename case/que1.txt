@@ -8,7 +8,7 @@ case $num in
               echo "two"
                ;;
             *)
-              echo "enter valid number"
+              echo "wrong number" // change by me
                ;;
 esac
 
