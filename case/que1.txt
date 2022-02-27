@@ -7,8 +7,10 @@ case $num in
            2)
               echo "two"
                ;;
-            *)
-              echo "wrong number" // change by neha 
+            
+           3)
+              echo "wrong number" // change by neha
+
                ;;
 esac
 
