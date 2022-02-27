@@ -9,7 +9,7 @@ case $num in
                ;;
             
            3)
-              echo "wrong number" // change by neha
+              echo "wrong no" // change by xyz
 
                ;;
 esac
