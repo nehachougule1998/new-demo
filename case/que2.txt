@@ -8,7 +8,7 @@ case $num in
                echo "monday"
                ;;
              *)
-               echo "enter a number" // change by def
+               echo "enter a number" // change by neha
                 ;;
 esac
 
